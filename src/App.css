@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Verdana';
+}
+
+html, body {
+  height: 100%;
+}
+
+#root {
+  display: grid;
+  grid-template-columns: 15% 35% 1fr; 
+  height: 100vh;
+  background: #0A182E;
+}

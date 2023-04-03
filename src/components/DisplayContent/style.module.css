@@ -1,0 +1,73 @@
+.container {
+  height: 100%;
+  background: #ededed;
+  overflow: auto;
+  color: black;
+  padding: 50px 40px;
+}
+
+.container h1 {
+  font-size: 26px;
+}
+
+.container h3 {
+  margin-block: 20px;
+}
+
+.container > p:first-child {
+  font-size: 15px;
+  opacity: .8;
+  margin-bottom: 8px;
+}
+
+.stats {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 50px;
+  margin-block: 50px;
+}
+
+.stats > div {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  margin-inline: 20px;
+  opacity: .8;
+}
+
+.stats > div svg {
+  min-width: 26px;
+  width: 0;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.form {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 50px;
+} 
+
+.form > p {
+  opacity: .7;
+  margin-bottom: 5px;
+  font-size: 13px;
+}
+
+.form > textarea {
+  padding: 15px;
+  border: 1px solid #cccccc;
+  min-width: 100%;
+  min-height: 100px;
+}
+
+.form > button {
+  margin-top: 5px;
+  width: 150px;
+  height: 40px;
+  background: #44ADA8;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

@@ -1,0 +1,30 @@
+.container, .selected {
+  width: 100%;
+  min-height: 60px;
+  padding: 30px;
+  cursor: pointer;
+  border-top: 1px solid #98abae;
+}
+
+.container > p,
+.selected > p {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.container > span,
+.selected > span {
+  font-size: 13px;
+  opacity: .7;
+}
+
+.container > span > span,
+.selected > span > span {
+  margin-inline: 5px;
+  font-size: 12px;
+}
+
+.selected {
+  outline: 1px solid white;
+}

@@ -1,0 +1,22 @@
+.displayTopic {
+  height: 100%;
+  background: #55797F;
+  position: relative;
+  padding-inline: 50px;
+  padding-top: 90px;
+  overflow-y: auto;
+  color: white;
+}
+
+.displayTopic > h1 {
+  font-weight: normal;
+  letter-spacing: 1px;
+  font-style: italic;
+  padding: 30px;
+  position: fixed;
+  top: 0;
+  width: 35%;
+  background: #55797F;
+  transform: translateX(-50px);
+  z-index: 1;
+}

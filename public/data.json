@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "title": "I am working on this project As a beginner with just HTML, CSS and Bootstrap knowledge. How do I create this zig zag line chart in the dashboard below. HELP.",
+      "subtitle": "Zig zag in CSS",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "webdev",
+      "date": "28/03/2023",
+      "category": "tecnologia",
+      "like": 250
+    },
+    "comments": [
+      {
+        "answer": "https://www.chartjs.org/",
+        "author": "Godttenks",
+        "date": "28/03/2023",
+        "like": 185
+      },
+      {
+        "answer": "As a fullstack dev of 4 years I wouldn't even know how to do this without js lol",
+        "author": "015Daan",
+        "date": "28/03/2023",
+        "like": 22
+      },
+      {
+        "answer": "chartJS or PlotlyJS depending on what type of chart you need. Plotly is also great for maps.",
+        "author": "Frequent_Violinist55",
+        "date": "28/03/2023",
+        "like": 27
+      },
+      {
+        "answer": "U need to use chart.js or apexChart.js",
+        "author": "sohail_ansari",
+        "date": "28/03/2023",
+        "like": 9
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "topic": {
+      "title": "I am working on this project As a beginner with just HTML, CSS and Bootstrap knowledge. How do I create this zig zag line chart in the dashboard below. HELP.",
+      "subtitle": "Zig zag in CSS",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "webdev",
+      "date": "02/04/2023",
+      "category": "tecnologia",
+      "like": 200
+    },
+    "comments": [
+      {
+        "answer": "https://www.chartjs.org/",
+        "author": "Godttenks",
+        "date": "28/03/2023",
+        "like": 185
+      },
+      {
+        "answer": "As a fullstack dev of 4 years I wouldn't even know how to do this without js lol",
+        "author": "015Daan",
+        "date": "28/03/2023",
+        "like": 22
+      },
+      {
+        "answer": "chartJS or PlotlyJS depending on what type of chart you need. Plotly is also great for maps.",
+        "author": "Frequent_Violinist55",
+        "date": "28/03/2023",
+        "like": 27
+      },
+      {
+        "answer": "U need to use chart.js or apexChart.js",
+        "author": "sohail_ansari",
+        "date": "28/03/2023",
+        "like": 9
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "topic": {
+      "title": "I am working on this project As a beginner with just HTML, CSS and Bootstrap knowledge. How do I create this zig zag line chart in the dashboard below. HELP.",
+      "subtitle": "Zig zag in CSS",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "webdev",
+      "date": "28/03/2023",
+      "category": "tecnologia",
+      "like": 470
+    },
+    "comments": [
+      {
+        "answer": "https://www.chartjs.org/",
+        "author": "Godttenks",
+        "date": "28/03/2023",
+        "like": 185
+      },
+      {
+        "answer": "As a fullstack dev of 4 years I wouldn't even know how to do this without js lol",
+        "author": "015Daan",
+        "date": "28/03/2023",
+        "like": 22
+      },
+      {
+        "answer": "chartJS or PlotlyJS depending on what type of chart you need. Plotly is also great for maps.",
+        "author": "Frequent_Violinist55",
+        "date": "28/03/2023",
+        "like": 27
+      },
+      {
+        "answer": "U need to use chart.js or apexChart.js",
+        "author": "sohail_ansari",
+        "date": "28/03/2023",
+        "like": 9
+      }
+    ]
+  }
+]
